@@ -1,5 +1,5 @@
 ## Jak udělám ze složky repozitář?
-nevím
+nevím...
 ```
 git init muj-projekt
 ```
